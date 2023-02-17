@@ -1,0 +1,67 @@
+2023-02-17T15:48:20.649-05:00  INFO 12031 --- [restartedMain] c.p.s.SpringbootBackendApplication       : Starting SpringbootBackendApplication using Java 17.0.5 with PID 12031 (/Users/rijalsujan09/workspace-springProject/springboot-backend/target/classes started by rijalsujan09 in /Users/rijalsujan09/workspace-springProject/springboot-backend)
+2023-02-17T15:48:20.650-05:00  INFO 12031 --- [restartedMain] c.p.s.SpringbootBackendApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-02-17T15:48:20.666-05:00  INFO 12031 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-02-17T15:48:20.954-05:00  INFO 12031 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-02-17T15:48:20.958-05:00  INFO 12031 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-02-17T15:48:20.958-05:00  INFO 12031 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-02-17T15:48:20.979-05:00  INFO 12031 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-02-17T15:48:20.979-05:00  INFO 12031 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 313 ms
+2023-02-17T15:48:21.093-05:00  WARN 12031 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-02-17T15:48:21.104-05:00  INFO 12031 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-02-17T15:48:21.109-05:00  INFO 12031 --- [restartedMain] c.p.s.SpringbootBackendApplication       : Started SpringbootBackendApplication in 0.611 seconds (process running for 0.877)
+2023-02-17T15:49:16.830-05:00  INFO 12031 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 6 class path changes (0 additions, 0 deletions, 6 modifications)
+2023-02-17T15:49:16.853-05:00  INFO 12031 --- [Thread-1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-02-17T15:49:16.895-05:00  INFO 12031 --- [restartedMain] c.p.s.SpringbootBackendApplication       : Starting SpringbootBackendApplication using Java 17.0.5 with PID 12031 (/Users/rijalsujan09/workspace-springProject/springboot-backend/target/classes started by rijalsujan09 in /Users/rijalsujan09/workspace-springProject/springboot-backend)
+2023-02-17T15:49:16.895-05:00  INFO 12031 --- [restartedMain] c.p.s.SpringbootBackendApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-02-17T15:49:16.956-05:00  INFO 12031 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-02-17T15:49:16.956-05:00  INFO 12031 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-02-17T15:49:16.956-05:00  INFO 12031 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-02-17T15:49:16.960-05:00  INFO 12031 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-02-17T15:49:16.960-05:00  INFO 12031 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 64 ms
+2023-02-17T15:49:16.982-05:00  WARN 12031 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-02-17T15:49:16.985-05:00  INFO 12031 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-02-17T15:49:16.987-05:00  INFO 12031 --- [restartedMain] c.p.s.SpringbootBackendApplication       : Started SpringbootBackendApplication in 0.103 seconds (process running for 56.756)
+2023-02-17T15:49:16.988-05:00  INFO 12031 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-02-17T15:49:22.435-05:00  INFO 12031 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 3 class path changes (0 additions, 0 deletions, 3 modifications)
+2023-02-17T15:49:22.441-05:00  INFO 12031 --- [Thread-5] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-02-17T15:49:22.477-05:00  INFO 12031 --- [restartedMain] c.p.s.SpringbootBackendApplication       : Starting SpringbootBackendApplication using Java 17.0.5 with PID 12031 (/Users/rijalsujan09/workspace-springProject/springboot-backend/target/classes started by rijalsujan09 in /Users/rijalsujan09/workspace-springProject/springboot-backend)
+2023-02-17T15:49:22.477-05:00  INFO 12031 --- [restartedMain] c.p.s.SpringbootBackendApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-02-17T15:49:22.531-05:00  INFO 12031 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-02-17T15:49:22.532-05:00  INFO 12031 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-02-17T15:49:22.532-05:00  INFO 12031 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-02-17T15:49:22.534-05:00  INFO 12031 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-02-17T15:49:22.535-05:00  INFO 12031 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 57 ms
+2023-02-17T15:49:22.556-05:00  WARN 12031 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-02-17T15:49:22.560-05:00  INFO 12031 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-02-17T15:49:22.561-05:00  INFO 12031 --- [restartedMain] c.p.s.SpringbootBackendApplication       : Started SpringbootBackendApplication in 0.096 seconds (process running for 62.33)
+2023-02-17T15:49:22.562-05:00  INFO 12031 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-02-17T15:49:32.189-05:00  INFO 12031 --- [RMI TCP Connection(9)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-02-17T15:49:32.191-05:00  INFO 12031 --- [RMI TCP Connection(9)-127.0.0.1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-02-17T15:49:33.253-05:00  INFO 12114 --- [restartedMain] c.p.s.SpringbootBackendApplication       : Starting SpringbootBackendApplication using Java 17.0.5 with PID 12114 (/Users/rijalsujan09/workspace-springProject/springboot-backend/target/classes started by rijalsujan09 in /Users/rijalsujan09/workspace-springProject/springboot-backend)
+2023-02-17T15:49:33.254-05:00  INFO 12114 --- [restartedMain] c.p.s.SpringbootBackendApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-02-17T15:49:33.269-05:00  INFO 12114 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-02-17T15:49:33.460-05:00  INFO 12114 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-02-17T15:49:33.468-05:00  INFO 12114 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 4 ms. Found 0 JPA repository interfaces.
+2023-02-17T15:49:33.646-05:00  INFO 12114 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-02-17T15:49:33.650-05:00  INFO 12114 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-02-17T15:49:33.650-05:00  INFO 12114 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-02-17T15:49:33.673-05:00  INFO 12114 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-02-17T15:49:33.673-05:00  INFO 12114 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 404 ms
+2023-02-17T15:49:33.727-05:00  INFO 12114 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-02-17T15:49:33.749-05:00  INFO 12114 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-02-17T15:49:33.807-05:00  WARN 12114 --- [restartedMain] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-02-17T15:49:33.845-05:00  INFO 12114 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-02-17T15:49:33.988-05:00  INFO 12114 --- [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2b019ff9
+2023-02-17T15:49:33.988-05:00  INFO 12114 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-02-17T15:49:34.018-05:00  INFO 12114 --- [restartedMain] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-02-17T15:49:34.311-05:00  INFO 12114 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-02-17T15:49:34.315-05:00  INFO 12114 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-02-17T15:49:34.330-05:00  WARN 12114 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-02-17T15:49:34.448-05:00  WARN 12114 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-02-17T15:49:34.461-05:00  INFO 12114 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-02-17T15:49:34.465-05:00  INFO 12114 --- [restartedMain] c.p.s.SpringbootBackendApplication       : Started SpringbootBackendApplication in 1.347 seconds (process running for 1.693)
+2023-02-17T15:50:11.190-05:00  INFO 12114 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-02-17T15:50:11.206-05:00  INFO 12114 --- [Thread-1] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2023-02-17T15:50:11.219-05:00  INFO 12114 --- [Thread-1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-02-17T15:50:11.224-05:00  INFO 12114 --- [Thread-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-02-17T15:50:11.229-05:00  INFO 12114 --- [Thread-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
